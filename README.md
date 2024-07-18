@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leein00
+- 👋 Hi, I’m @Leein
 - 👀 I’m interested in playing computer games
 - 🌱 I’m currently learning HarmonyOS
 - 💞️ I’m looking to collaborate on ...
